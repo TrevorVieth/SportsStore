@@ -8,3 +8,13 @@ D:\jeff\Dropbox\CIS\CIDM\CIDM3312\Spring 2018\CIDM3312-Spring2018-SportsStore\Sp
 D:\jeff\Dropbox\CIS\CIDM\CIDM3312\Spring 2018\CIDM3312-Spring2018-SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
 D:\jeff\Dropbox\CIS\CIDM\CIDM3312\Spring 2018\CIDM3312-Spring2018-SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
 D:\jeff\Dropbox\CIS\CIDM\CIDM3312\Spring 2018\CIDM3312-Spring2018-SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb
+C:\CIDM-3312-01\CIDM-3312-01-Self\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+C:\CIDM-3312-01\CIDM-3312-01-Self\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+C:\CIDM-3312-01\CIDM-3312-01-Self\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+C:\CIDM-3312-01\CIDM-3312-01-Self\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
+C:\CIDM-3312-01\CIDM-3312-01-Self\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+C:\CIDM-3312-01\CIDM-3312-01-Self\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+C:\CIDM-3312-01\CIDM-3312-01-Self\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+C:\CIDM-3312-01\CIDM-3312-01-Self\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+C:\CIDM-3312-01\CIDM-3312-01-Self\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
+C:\CIDM-3312-01\CIDM-3312-01-Self\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb
